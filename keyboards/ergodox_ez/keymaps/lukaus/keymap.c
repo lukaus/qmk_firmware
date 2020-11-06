@@ -111,7 +111,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      KC_PSCREEN, KC_PGUP,  KC_PGDOWN,  KC_SPACE, KC_LSHIFT,  KC_INSERT,
 
     KC_F6,          KC_F7,            KC_F8,              KC_F9,              KC_F10,             KC_F11,         KC_F12,
-    KC_NO,          KC_HOME,          KC_PGUP,            KC_DEL,             KC_PRINTSCREEN,     KC_SLCK,        KC_TRANSPARENT,
+    KC_NO,          KC_HOME,          KC_PGUP,            KC_DEL,             KC_PSCREEN,     KC_SLCK,        KC_TRANSPARENT,
                     KC_LEFT,          KC_DOWN,            KC_UP,              KC_RIGHT,           KC_TRANSPARENT, KC_TRANSPARENT,
     MEH_T(KC_NO),   KC_CALCULATOR,    KC_PGDN,            KC_TRANSPARENT,     KC_TRANSPARENT,     KC_TRANSPARENT, KC_RSHIFT,
                                       KC_DELETE,          KC_INSERT,          KC_TRANSPARENT,     KC_F19,         KC_RCTL,
