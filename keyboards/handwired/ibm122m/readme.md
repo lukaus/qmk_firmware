@@ -5,7 +5,7 @@
 This is a keymap for the IBM Model M 122 key terminal keyboard running on a Teensy 2.0++
 I wired it to weird pins on mine (mainly to accomodate speakers), so make sure to update the pin arrays.
 
-Keyboard Maintainer: [Luke Stanley](https://github.com/lukexorz)  
+Keyboard Maintainer: [Luke Stanley](https://github.com/lukaus)  
 Hardware Supported: Teensy 2.0++  
 Hardware Availability: https://www.pjrc.com/store/teensypp.html 
 
